@@ -165,7 +165,7 @@ a.skip:focus{
 
 	.gallery{
 		display: grid;
-		grid-template-columns: auto auto;
+		grid-template-columns: 2;
 	}
 		.gallery img{
 			border: 1px solid;
